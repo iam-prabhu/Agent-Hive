@@ -1,6 +1,6 @@
 # 🐝 Agent Hive
 
-![Agent Hive Hero]([https://github.com/user-attachments/assets/placeholder](https://ibb.co/jNgGmP9))<!-- Replace this placeholder with a screenshot of your beautiful new blue landing page! -->
+![Agent Hive Hero](./public/hero-screenshot.png)<!-- Replace this placeholder with a screenshot of your beautiful new blue landing page! -->
 
 **Agent Hive** is a modern, no-code AI orchestration platform designed to democratize autonomous agent creation. Built with a deeply responsive interactive canvas, Agent Hive empowers builders, creators, and businesses to drag, drop, and connect complex AI workflows without writing a single line of backend logic.
 
